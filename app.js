@@ -1,1 +1,2 @@
-Vue.createApp({}).mount('#app')
+let vm = Vue.createApp({
+}).mount('#app')
